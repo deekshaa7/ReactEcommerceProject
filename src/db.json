@@ -1,0 +1,76 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "image": "lap4.webp",
+      "brand": "MacBook",
+      "model": "Latest",
+      "price": "180000",
+      "description": "The latest MacBook with high-end features and performance."
+    },
+    {
+      "id": "2",
+      "image": "lapy1.jpg",
+      "brand": "Dell",
+      "model": "Latest",
+      "price": "80000",
+      "description": "The latest Dell laptop with powerful specifications."
+    },
+    {
+      "id": "3",
+      "image": "lapy2.jpg",
+      "brand": "HP",
+      "model": "Latest",
+      "price": "75000",
+      "description": "The latest HP laptop offering great value for money."
+    },
+    {
+      "id": "4",
+      "image": "lapy3.jpg",
+      "brand": "Samsung",
+      "model": "Latest",
+      "price": "80000",
+      "description": "The latest Samsung laptop with cutting-edge technology."
+    }
+  ],
+  "signup": [
+    {
+      "id": "1",
+      "userid": "deeksha1",
+      "name": "Deeksha Sharma",
+      "email": "deekshasharma@gmail.com",
+      "password": "d123",
+      "confirm password": "d123"
+    },
+    {
+      "id": "1",
+      "userid": "shiksha1",
+      "name": "Shiksha Sharma",
+      "email": "shiksha@gmail.com",
+      "password": "s123",
+      "confirmpassword": "s123"
+    },
+    {
+      "name": "abc",
+      "userid": "abc1",
+      "email": "abc@gmail.com",
+      "password": "a123",
+      "confirmpassword": "a123",
+      "id": "SayNG34"
+    },
+    {
+      "name": "Dolly ",
+      "email": "dolly@gmail.com",
+      "password": "do123",
+      "confirmpassword": "do123",
+      "id": "cCFsl-8"
+    },
+    {
+      "name": "shikky",
+      "email": "shikky@gmail.com",
+      "password": "shilly123",
+      "confirmpassword": "shikky123",
+      "id": "hrhQmeB"
+    }
+  ]
+}
